@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-express/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-express#readme"
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-express#readme",
+  "devDependencies": {}
 }
